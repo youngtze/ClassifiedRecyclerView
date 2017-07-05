@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/item_padding">
+
+    <TextView
+        android:id="@+id/app_icon"
+        android:layout_width="@dimen/item_drawable_size"
+        android:layout_height="@dimen/item_drawable_size"
+        android:drawablePadding="@dimen/item_drawable_padding"
+        android:ellipsize="end"
+        android:gravity="center_horizontal"
+        android:maxEms="4"
+        android:maxLines="1" />
+</RelativeLayout>

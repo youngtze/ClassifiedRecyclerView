@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_margin">10dp</dimen>
+    <dimen name="item_padding">8dp</dimen>
+    <dimen name="item_drawable_padding">3dp</dimen>
+    <dimen name="item_label_height">30dp</dimen>
+    <dimen name="item_drawable_size">72dp</dimen>
+    <dimen name="item_icon_height">52dp</dimen>
+    <dimen name="item_divider_height">1dp</dimen>
+    <dimen name="item_gap_height">10dp</dimen>
+
+    <dimen name="item_label_text_top_padding">20dp</dimen>
+    <dimen name="item_label_text_size">16sp</dimen>
+
+    <dimen name="index_bar_text_size">12sp</dimen>
+    <dimen name="index_bar_text_leading">10dp</dimen>
+    <dimen name="index_bar_top_padding">100dp</dimen>
+    <dimen name="index_bar_padding">8dp</dimen>
+</resources>
